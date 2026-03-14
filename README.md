@@ -38,8 +38,7 @@ Chaque langage doit inclure uniquement :
 ```text
 Mini-Compilateur/
 ├─ App/
-│   ├─ src/             # Code source Java
-│   └─ bin/             # Fichiers compilés (optionnel)
+│   └─  src/             # Code source Java
 ├─ A2_BENZAID-Mohamed_Amine.jar   # Exécutable
 ├─ Rapport.pdf          # Rapport complet
 └─ README.md            # Ce fichier
