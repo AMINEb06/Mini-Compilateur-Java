@@ -40,5 +40,5 @@ Mini-Compilateur/
 ├─ App/
 │   └─  src/             # Code source Java
 ├─ A2_BENZAID-Mohamed_Amine.jar   # Exécutable
-├─ Rapport.pdf          # Rapport complet
-└─ README.md            # Ce fichier
+├─ Rapport de mini projet TP Compilation .pdf         # Rapport complet
+└─ README.md            
